@@ -36,7 +36,7 @@
 [![freezed](https://img.shields.io/badge/Freezed-%5E2.5.2-blue?logo=ice)](https://pub.dev/packages/freezed)
 [![freezed_annotation](https://img.shields.io/badge/Freezed_Annotation-%5E2.4.1-blue?logo=ice)](https://pub.dev/packages/freezed_annotation)
 [![gap](https://img.shields.io/badge/Gap-%5E3.0.1-blue?logo=gap)](https://pub.dev/packages/gap)
-[![get](https://img.shields.io/badge/Get-%5E4.6.6-blue?logo=get)](https://pub.dev/packages/get)
+[![get](https://img.shields.io/badge/Get-%5E4.6.6-blue?logo=get&logoColor=8A2BE2&color=8A2BE2)](https://pub.dev/packages/get)
 [![get_it](https://img.shields.io/badge/Get_It-%5E7.7.0-blue?logo=get)](https://pub.dev/packages/get_it)
 [![go_router](https://img.shields.io/badge/Go_Router-%5E13.2.4-blue?logo=router)](https://pub.dev/packages/go_router)
 [![google_sign_in](https://img.shields.io/badge/Google_Sign_In-%5E6.2.0-blue?logo=google)](https://pub.dev/packages/google_sign_in)
