@@ -220,30 +220,30 @@ Admins possess broader permissions and are responsible for managing various aspe
 
 - **Admin Levels :**
 
-    1. **Wallet Manager 💳**
-        - **Responsibilities:** Oversees all financial
-          transactions within the platform. This includes managing wallet operations, handling
-          deposits and withdrawals, and ensuring financial transactions are processed securely and
-          accurately 🔒.
+  1. **Wallet Manager 💳**
+    - **Responsibilities:** Oversees all financial
+      transactions within the platform. This includes managing wallet operations, handling
+      deposits and withdrawals, and ensuring financial transactions are processed securely and
+      accurately 🔒.
 
-    2. **Company Manager 🏢**
-        - **Responsibilities:** Manages all aspects related to
-          company operations. This includes overseeing the creation and management of company
-          accounts, ensuring compliance with company guidelines, and handling any issues related to
-          company activities 🔍.
+  2. **Company Manager 🏢**
+    - **Responsibilities:** Manages all aspects related to
+      company operations. This includes overseeing the creation and management of company
+      accounts, ensuring compliance with company guidelines, and handling any issues related to
+      company activities 🔍.
 
-    3. **Freelancer Manager 👨‍💼**
-        - **Responsibilities:** Focuses on managing freelance
-          projects and interactions. Oversees freelancer profiles, project applications, and ensures
-          that freelance engagements are conducted smoothly. Also addresses any issues related to
-          freelancer performance and project execution 📊.
+  3. **Freelancer Manager 👨‍💼**
+    - **Responsibilities:** Focuses on managing freelance
+      projects and interactions. Oversees freelancer profiles, project applications, and ensures
+      that freelance engagements are conducted smoothly. Also addresses any issues related to
+      freelancer performance and project execution 📊.
 
-    4. **Technical Support 🛠️**
-        - **Responsibilities:** Provides support for technical
-          issues and user inquiries. Handles troubleshooting, resolves technical problems, and
-          ensures that the platform’s technical operations run efficiently and effectively 💬.
-          Additionally, responds to messages from users experiencing problems, offering assistance
-          and guidance through chat interactions.
+  4. **Technical Support 🛠️**
+    - **Responsibilities:** Provides support for technical
+      issues and user inquiries. Handles troubleshooting, resolves technical problems, and
+      ensures that the platform’s technical operations run efficiently and effectively 💬.
+      Additionally, responds to messages from users experiencing problems, offering assistance
+      and guidance through chat interactions.
 
 ### **Super Admin 👑**
 
@@ -437,29 +437,29 @@ The application offers a robust and user-friendly system for managing freelance 
 smooth and secure interactions among **users**, **explorers**, and **administrators**.
 
 - **Contract Creation and Management:**
-    - ✍️ *Users* can effortlessly create, update, and manage their contracts within the platform.
-    - 📄 *Multiple PDF Files*: The system supports the upload of multiple PDF files, making it easy
-      to include all necessary documentation.
+  - ✍️ *Users* can effortlessly create, update, and manage their contracts within the platform.
+  - 📄 *Multiple PDF Files*: The system supports the upload of multiple PDF files, making it easy
+    to include all necessary documentation.
 
 - **Contract Status:**
-    - ✅ *Mark as Successful*: Once a project is completed to satisfaction, users can mark contracts
-      as successful.
-    - 🚨 *File Complaints*: If issues arise, users can file complaints, which will be reviewed by
-      administrators.
+  - ✅ *Mark as Successful*: Once a project is completed to satisfaction, users can mark contracts
+    as successful.
+  - 🚨 *File Complaints*: If issues arise, users can file complaints, which will be reviewed by
+    administrators.
 
 - **Administrative Oversight:**
-    - 👮 *Administrators* have comprehensive oversight capabilities, allowing them to:
-        - 🔍 *Resolve Disputes*: Admins can intervene to resolve disputes between parties.
-        - ⬇️ *Download Files*: Access and download any attached files for review.
-        - 📊 *Monitor Activities*: Keep an eye on contract activities across the platform to ensure
-          compliance and transparency.
+  - 👮 *Administrators* have comprehensive oversight capabilities, allowing them to:
+    - 🔍 *Resolve Disputes*: Admins can intervene to resolve disputes between parties.
+    - ⬇️ *Download Files*: Access and download any attached files for review.
+    - 📊 *Monitor Activities*: Keep an eye on contract activities across the platform to ensure
+      compliance and transparency.
 
 - **Explore Module:**
-    - 🌍 The explore module provides additional functionalities for users to interact with ongoing
-      contracts:
-        - ✔️ *Accept or Refuse*: Users can choose to accept or refuse contracts.
-        - 🚚 *Shipping*: Users can manage the shipping of contracts as needed.
-        - 📂 *Access and Download*: All contract files can be accessed and downloaded easily.
+  - 🌍 The explore module provides additional functionalities for users to interact with ongoing
+    contracts:
+    - ✔️ *Accept or Refuse*: Users can choose to accept or refuse contracts.
+    - 🚚 *Shipping*: Users can manage the shipping of contracts as needed.
+    - 📂 *Access and Download*: All contract files can be accessed and downloaded easily.
 
 ---
 
@@ -494,9 +494,9 @@ users within the application 💬. Key features include:*
   they are online 🟢 or offline 🔴.
 
 - **Message Status:** 📩 Provides clear indicators for message status:
-    - **Sent:** 📤 Message has been sent from the sender.
-    - **Delivered:** 📥 Message has been received by the recipient.
-    - **Read:** 👁️ Message has been read by the recipient.
+  - **Sent:** 📤 Message has been sent from the sender.
+  - **Delivered:** 📥 Message has been received by the recipient.
+  - **Read:** 👁️ Message has been read by the recipient.
 
 - **Redis Integration:** 🗃️ Employs Redis to enhance storage and data retrieval operations, ensuring
   quick and efficient message handling with minimal latency 🚀.
