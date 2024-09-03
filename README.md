@@ -2,8 +2,8 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
-[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?logo=flutter&logoColor=02569B&color=02569B)](https://pub.dev/packages/animated_text_kit)
-[![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue?logo=flutter)](https://pub.dev/packages/animate_do)
+[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?logo=flutter&logoColor=02569B&color=0000FF)](https://pub.dev/packages/animated_text_kit)
+[![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue?logo=flutter&logoColor=0000FF&color=02569B)](https://pub.dev/packages/animate_do)
 [![app_links](https://img.shields.io/badge/App_Links-%5E6.2.0-blue?logo=link)](https://pub.dev/packages/app_links)
 [![audioplayers](https://img.shields.io/badge/Audioplayers-%5E6.0.0-blue?logo=audioplayer)](https://pub.dev/packages/audioplayers)
 [![awesome_notifications](https://img.shields.io/badge/Awesome_Notifications-%5E0.9.3%2B1-blue?logo=bell)](https://pub.dev/packages/awesome_notifications)
