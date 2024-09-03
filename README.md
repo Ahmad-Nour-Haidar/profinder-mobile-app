@@ -18,7 +18,7 @@
 [![dartz](https://img.shields.io/badge/Dartz-%5E0.10.1-blue?logo=dart&logoColor=0175C2)](https://pub.dev/packages/dartz)
 [![dio](https://img.shields.io/badge/Dio-%5E5.4.3%2B1-green?logo=flutter&logoColor=0000FF)](https://pub.dev/packages/dio)
 [![dotted_border](https://img.shields.io/badge/Dotted_Border-%5E2.1.0-blue?logo=flutter&logoColor=0000FF)](https://pub.dev/packages/dotted_border)
-[![dotenv](https://img.shields.io/badge/Dotenv-%5E5.0.3-blue?logo=cryptpad&logoColor=0087FF)](https://pub.dev/packages/encrypt)
+[![dotenv](https://img.shields.io/badge/Dotenv-%5E5.0.3-blue?logo=dotenv&logoColor=ECD53F)](https://pub.dev/packages/dotenv)
 [![encrypt](https://img.shields.io/badge/Encrypt-%5E5.0.3-blue?logo=cryptpad&logoColor=0087FF)](https://pub.dev/packages/encrypt)
 [![equatable](https://img.shields.io/badge/Equatable-%5E2.0.5-blue?logo=equals)](https://pub.dev/packages/equatable)
 [![file_picker](https://img.shields.io/badge/File_Picker-%5E8.0.3-blue?logo=file)](https://pub.dev/packages/file_picker)
