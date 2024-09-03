@@ -605,14 +605,14 @@ reliable platform experience.
 
 ## 👥 Team Members
 
-| S.No. | Name                                                      | Role               | Technology | LinkedIn                                                             |
-|-------|-----------------------------------------------------------|--------------------|------------|----------------------------------------------------------------------|
-| 1.    | [Omar Bkdash](https://github.com/Omar-Bkdash-7)           | Mobile Developer   | Flutter    | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             |
-| 2.    | [Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar) | Mobile Developer   | Flutter    | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) |
-| 3.    | [Osama Saddik](https://github.com/osamasaddik)            | Frontend Developer | React.js   | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  |
-| 4.    | [Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)     | Backend Developer  | Express.js | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      |
-| 5.    | [Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)           | Backend Developer  | Express.js | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) |
-| 6.    | [Alaa Haidar](https://www.instagram.com/_alaa.haidar)     | UI & UX            | Figma      | [@Alaa-Haidar](https://www.linkedin.com/in/alaa-haidar/)             |
+| S.No. | Name                                                      | Role               | Technology | LinkedIn                                                             | Email                     |
+|-------|-----------------------------------------------------------|--------------------|------------|----------------------------------------------------------------------|---------------------------|
+| 1.    | [Omar Bkdash](https://github.com/Omar-Bkdash-7)           | Mobile Developer   | Flutter    | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             |                           |
+| 2.    | [Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar) | Mobile Developer   | Flutter    | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) | ahmadnourhaidar@gmail.com |
+| 3.    | [Osama Saddik](https://github.com/osamasaddik)            | Frontend Developer | React.js   | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com     |
+| 4.    | [Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)     | Backend Developer  | Express.js | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      | ayman.eng.job@gmail.com   |
+| 5.    | [Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)           | Backend Developer  | Express.js | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ajajeh356@gmail.com       |
+| 6.    | [Alaa Haidar](https://www.instagram.com/_alaa.haidar)     | UI & UX            | Figma      | [@Alaa-Haidar](https://www.linkedin.com/in/alaa-haidar/)             | alaahaidaar@gmail.com     |
 
 ## 📄 License
 
@@ -680,61 +680,6 @@ experience. Below are the mockups showcasing various features and screens of the
     <img src="screenshot/mobile/dark/12.jpeg" style="width: 32%; " />
     <img src="screenshot/mobile/dark/13.jpeg" style="width: 32%;" />
   </div>
-
-</div>
-
----
-
-<div style="text-align: center;">
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/1.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/2.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/3.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/4.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/5.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/6.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/7.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/8.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/9.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/10.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/11.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/dark/12.jpeg" style="width: 32%; " />
-  </div>
-
- <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/dark/13.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/both/1.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/1.jpeg" style="width: 32%; " />
-  </div>
-
-
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/2.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/3.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/4.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/5.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/6.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/7.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/8.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/9.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/10.jpeg" style="width: 32%; " />
-  </div>
-  <div style="margin: 0; padding: 0;">
-    <img src="screenshot/mobile/light/11.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/12.jpeg" style="width: 32%;" />
-    <img src="screenshot/mobile/light/13.jpeg" style="width: 32%; " />
-  </div>
-
 
 </div>
 
