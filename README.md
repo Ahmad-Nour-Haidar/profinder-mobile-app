@@ -2,24 +2,24 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
-[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue)](https://pub.dev/packages/animated_text_kit)
-[![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue)](https://pub.dev/packages/animate_do)
-[![app_links](https://img.shields.io/badge/App_Links-%5E6.2.0-blue)](https://pub.dev/packages/app_links)
-[![audioplayers](https://img.shields.io/badge/Audioplayers-%5E6.0.0-blue)](https://pub.dev/packages/audioplayers)
-[![awesome_notifications](https://img.shields.io/badge/Awesome_Notifications-%5E0.9.3%2B1-blue)](https://pub.dev/packages/awesome_notifications)
-[![badges](https://img.shields.io/badge/Badges-%5E3.1.2-blue)](https://pub.dev/packages/badges)
-[![build_runner](https://img.shields.io/badge/Build_Runner-%5E2.4.9-blue)](https://pub.dev/packages/build_runner)
-[![cached_network_image](https://img.shields.io/badge/Cached_Network_Image-%5E3.3.1-blue)](https://pub.dev/packages/cached_network_image)
-[![connectivity_plus](https://img.shields.io/badge/Connectivity_Plus-%5E6.0.5-blue)](https://pub.dev/packages/connectivity_plus)
-[![country_picker](https://img.shields.io/badge/Country_Picker-%5E2.0.26-blue)](https://pub.dev/packages/country_picker)
+[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?logo=animation&logoColor=FF6347)](https://pub.dev/packages/animated_text_kit)
+[![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue?logo=do&logoColor=FFD700)](https://pub.dev/packages/animate_do)
+[![app_links](https://img.shields.io/badge/App_Links-%5E6.2.0-blue?logo=link&logoColor=87CEEB)](https://pub.dev/packages/app_links)
+[![audioplayers](https://img.shields.io/badge/Audioplayers-%5E6.0.0-blue?logo=music&logoColor=1DB954)](https://pub.dev/packages/audioplayers)
+[![awesome_notifications](https://img.shields.io/badge/Awesome_Notifications-%5E0.9.3%2B1-blue?logo=bell&logoColor=FF4500)](https://pub.dev/packages/awesome_notifications)
+[![badges](https://img.shields.io/badge/Badges-%5E3.1.2-blue?logo=badge&logoColor=DC143C)](https://pub.dev/packages/badges)
+[![build_runner](https://img.shields.io/badge/Build_Runner-%5E2.4.9-blue?logo=build&logoColor=00CED1)](https://pub.dev/packages/build_runner)
+[![cached_network_image](https://img.shields.io/badge/Cached_Network_Image-%5E3.3.1-blue?logo=image&logoColor=4682B4)](https://pub.dev/packages/cached_network_image)
+[![connectivity_plus](https://img.shields.io/badge/Connectivity_Plus-%5E6.0.5-blue?logo=wifi&logoColor=00BFFF)](https://pub.dev/packages/connectivity_plus)
+[![country_picker](https://img.shields.io/badge/Country_Picker-%5E2.0.26-blue?logo=globe&logoColor=008080)](https://pub.dev/packages/country_picker)
 [![crypto](https://img.shields.io/badge/Crypto-%5E3.0.5-blue?logo=cryptpad&logoColor=0087FF)](https://pub.dev/packages/crypto)
-[![currency_picker](https://img.shields.io/badge/Currency_Picker-%5E2.0.21-blue)](https://pub.dev/packages/currency_picker)
+[![currency_picker](https://img.shields.io/badge/Currency_Picker-%5E2.0.21-blue?logo=money&logoColor=32CD32)](https://pub.dev/packages/currency_picker)
 [![cupertino_icons](https://img.shields.io/badge/Cupertino_Icons-%5E1.0.6-blue?logo=apple&logoColor=000000)](https://pub.dev/packages/cupertino_icons)
 [![dartz](https://img.shields.io/badge/Dartz-%5E0.10.1-blue?logo=dart&logoColor=0175C2)](https://pub.dev/packages/dartz)
-[![dio](https://img.shields.io/badge/Dio-%5E5.4.3%2B1-green)](https://pub.dev/packages/dio)
-[![dotted_border](https://img.shields.io/badge/Dotted_Border-%5E2.1.0-blue)](https://pub.dev/packages/dotted_border)
+[![dio](https://img.shields.io/badge/Dio-%5E5.4.3%2B1-green?logo=api&logoColor=32CD32)](https://pub.dev/packages/dio)
+[![dotted_border](https://img.shields.io/badge/Dotted_Border-%5E2.1.0-blue?logo=border&logoColor=FF6347)](https://pub.dev/packages/dotted_border)
 [![encrypt](https://img.shields.io/badge/Encrypt-%5E5.0.3-blue?logo=cryptpad&logoColor=0087FF)](https://pub.dev/packages/encrypt)
-[![equatable](https://img.shields.io/badge/Equatable-%5E2.0.5-blue)](https://pub.dev/packages/equatable)
+[![equatable](https://img.shields.io/badge/Equatable-%5E2.0.5-blue?logo=equals&logoColor=708090)](https://pub.dev/packages/equatable)
 [![file_picker](https://img.shields.io/badge/File_Picker-%5E8.0.3-blue?logo=files&logoColor=4285F4)](https://pub.dev/packages/file_picker)
 [![firebase_core](https://img.shields.io/badge/Firebase_Core-%5E3.3.0-blue?logo=firebase&logoColor=DD2C00)](https://pub.dev/packages/firebase_core)
 [![firebase_messaging](https://img.shields.io/badge/Firebase_Messaging-%5E15.0.4-blue?logo=firebase&logoColor=DD2C00)](https://pub.dev/packages/firebase_messaging)
@@ -27,42 +27,42 @@
 [![flutter_bloc](https://img.shields.io/badge/Flutter_Bloc-%5E8.1.5-blue?logo=flutter&logoColor=0000FF&color=0000FF)](https://pub.dev/packages/flutter_bloc)
 [![flutter_chat_bubble](https://img.shields.io/badge/Flutter_Chat_Bubble-%5E2.0.2-blue?logo=wechat&logoColor=07C160)](https://pub.dev/packages/flutter_chat_bubble)
 [![flutter_dotenv](https://img.shields.io/badge/Flutter_Dotenv-%5E5.1.0-blue?logo=dotenv&logoColor=ECD53F)](https://pub.dev/packages/flutter_dotenv)
-[![flutter_linkify](https://img.shields.io/badge/Flutter_Linkify-%5E6.0.0-blue?logo=link)](https://pub.dev/packages/flutter_linkify)
-[![flutter_rating_bar](https://img.shields.io/badge/Flutter_Rating_Bar-%5E4.0.1-blue?logo=star)](https://pub.dev/packages/flutter_rating_bar)
-[![flutter_spinkit](https://img.shields.io/badge/Flutter_Spinkit-%5E5.2.1-blue?logo=spinner)](https://pub.dev/packages/flutter_spinkit)
-[![flutter_speed_dial](https://img.shields.io/badge/Flutter_Speed_Dial-%5E7.0.0-blue?logo=dial)](https://pub.dev/packages/flutter_speed_dial)
+[![flutter_linkify](https://img.shields.io/badge/Flutter_Linkify-%5E6.0.0-blue?logo=link&logoColor=4682B4)](https://pub.dev/packages/flutter_linkify)
+[![flutter_rating_bar](https://img.shields.io/badge/Flutter_Rating_Bar-%5E4.0.1-blue?logo=star&logoColor=FFD700)](https://pub.dev/packages/flutter_rating_bar)
+[![flutter_spinkit](https://img.shields.io/badge/Flutter_Spinkit-%5E5.2.1-blue?logo=spinner&logoColor=FF4500)](https://pub.dev/packages/flutter_spinkit)
+[![flutter_speed_dial](https://img.shields.io/badge/Flutter_Speed_Dial-%5E7.0.0-blue?logo=dial&logoColor=4B0082)](https://pub.dev/packages/flutter_speed_dial)
 [![flutter_svg](https://img.shields.io/badge/Flutter_SVG-%5E2.0.10%2B1-blue?logo=svg&logoColor=FFB13B)](https://pub.dev/packages/flutter_svg)
-[![fluttertoast](https://img.shields.io/badge/Fluttertoast-%5E8.2.5-blue?logo=toast)](https://pub.dev/packages/fluttertoast)
-[![freezed](https://img.shields.io/badge/Freezed-%5E2.5.2-blue?logo=ice)](https://pub.dev/packages/freezed)
-[![freezed_annotation](https://img.shields.io/badge/Freezed_Annotation-%5E2.4.1-blue?logo=ice)](https://pub.dev/packages/freezed_annotation)
-[![gap](https://img.shields.io/badge/Gap-%5E3.0.1-blue?logo=gap)](https://pub.dev/packages/gap)
+[![fluttertoast](https://img.shields.io/badge/Fluttertoast-%5E8.2.5-blue?logo=toast&logoColor=D2691E)](https://pub.dev/packages/fluttertoast)
+[![freezed](https://img.shields.io/badge/Freezed-%5E2.5.2-blue?logo=ice&logoColor=ADD8E6)](https://pub.dev/packages/freezed)
+[![freezed_annotation](https://img.shields.io/badge/Freezed_Annotation-%5E2.4.1-blue?logo=ice&logoColor=ADD8E6)](https://pub.dev/packages/freezed_annotation)
+[![gap](https://img.shields.io/badge/Gap-%5E3.0.1-blue?logo=gap&logoColor=FFD700)](https://pub.dev/packages/gap)
 [![get](https://img.shields.io/badge/Get-%5E4.6.6-blue?logo=getx&logoColor=8A2BE2&color=8A2BE2)](https://pub.dev/packages/get)
-[![get_it](https://img.shields.io/badge/Get_It-%5E7.7.0-blue?logo=get)](https://pub.dev/packages/get_it)
-[![go_router](https://img.shields.io/badge/Go_Router-%5E13.2.4-blue?logo=router)](https://pub.dev/packages/go_router)
+[![get_it](https://img.shields.io/badge/Get_It-%5E7.7.0-blue?logo=get&logoColor=00CED1)](https://pub.dev/packages/get_it)
+[![go_router](https://img.shields.io/badge/Go_Router-%5E13.2.4-blue?logo=router&logoColor=4682B4)](https://pub.dev/packages/go_router)
 [![google_sign_in](https://img.shields.io/badge/Google_Sign_In-%5E6.2.0-blue?logo=google&logoColor=4285F4)](https://pub.dev/packages/google_sign_in)
-[![hive](https://img.shields.io/badge/Hive-%5E2.2.3-yellow?logo=database)](https://pub.dev/packages/hive)
-[![hive_flutter](https://img.shields.io/badge/Hive_Flutter-%5E1.1.0-yellow?logo=database)](https://pub.dev/packages/hive_flutter)
-[![hive_generator](https://img.shields.io/badge/Hive_Generator-%5E2.0.1-blue?logo=generate)](https://pub.dev/packages/hive_generator)
-[![image_picker](https://img.shields.io/badge/Image_Picker-%5E1.1.1-blue?logo=image)](https://pub.dev/packages/image_picker)
-[![intl](https://img.shields.io/badge/Intl-%5E0.19.0-blue?logo=calendar)](https://pub.dev/packages/intl)
-[![intl_phone_field](https://img.shields.io/badge/Intl_Phone_Field-%5E3.2.0-blue?logo=phone)](https://pub.dev/packages/intl_phone_field)
-[![jiffy](https://img.shields.io/badge/Jiffy-%5E6.2.1-blue?logo=calendar)](https://pub.dev/packages/jiffy)
+[![hive](https://img.shields.io/badge/Hive-%5E2.2.3-yellow?logo=database&logoColor=FFA500)](https://pub.dev/packages/hive)
+[![hive_flutter](https://img.shields.io/badge/Hive_Flutter-%5E1.1.0-yellow?logo=database&logoColor=FFA500)](https://pub.dev/packages/hive_flutter)
+[![hive_generator](https://img.shields.io/badge/Hive_Generator-%5E2.0.1-blue?logo=generate&logoColor=00CED1)](https://pub.dev/packages/hive_generator)
+[![image_picker](https://img.shields.io/badge/Image_Picker-%5E1.1.1-blue?logo=image&logoColor=FF4500)](https://pub.dev/packages/image_picker)
+[![intl](https://img.shields.io/badge/Intl-%5E0.19.0-blue?logo=calendar&logoColor=FFA07A)](https://pub.dev/packages/intl)
+[![intl_phone_field](https://img.shields.io/badge/Intl_Phone_Field-%5E3.2.0-blue?logo=phone&logoColor=FFD700)](https://pub.dev/packages/intl_phone_field)
+[![jiffy](https://img.shields.io/badge/Jiffy-%5E6.2.1-blue?logo=calendar&logoColor=FF6347)](https://pub.dev/packages/jiffy)
 [![json_annotation](https://img.shields.io/badge/JSON_Annotation-%5E4.9.0-blue?logo=json&logoColor=000000)](https://pub.dev/packages/json_annotation)
 [![json_serializable](https://img.shields.io/badge/JSON_Serializable-%5E6.8.0-blue?logo=json&logoColor=000000)](https://pub.dev/packages/json_serializable)
-[![lottie](https://img.shields.io/badge/Lottie-%5E3.1.2-blue?logo=lottie)](https://pub.dev/packages/lottie)
-[![media_scanner](https://img.shields.io/badge/Media_Scanner-%5E2.1.0-blue?logo=scanner)](https://pub.dev/packages/media_scanner)
-[![path](https://img.shields.io/badge/Path-%5E1.9.0-blue?logo=folder)](https://pub.dev/packages/path)
-[![path_provider](https://img.shields.io/badge/Path_Provider-%5E2.1.3-blue?logo=folder)](https://pub.dev/packages/path_provider)
-[![permission_handler](https://img.shields.io/badge/Permission_Handler-%5E11.3.1-blue?logo=lock)](https://pub.dev/packages/permission_handler)
-[![photo_view](https://img.shields.io/badge/Photo_View-%5E0.15.0-blue?logo=photo)](https://pub.dev/packages/photo_view)
-[![readmore](https://img.shields.io/badge/Readmore-%5E3.0.0-blue?logo=book)](https://pub.dev/packages/readmore)
-[![reorderable_grid](https://img.shields.io/badge/Reorderable_Grid-%5E1.0.10-blue?logo=grid)](https://pub.dev/packages/reorderable_grid)
-[![shimmer](https://img.shields.io/badge/Shimmer-%5E3.0.0-blue?logo=sparkles)](https://pub.dev/packages/shimmer)
-[![smooth_page_indicator](https://img.shields.io/badge/Smooth_Page_Indicator-%5E1.1.0-blue?logo=indicator)](https://pub.dev/packages/smooth_page_indicator)
+[![lottie](https://img.shields.io/badge/Lottie-%5E3.1.2-blue?logo=lottie&logoColor=32CD32)](https://pub.dev/packages/lottie)
+[![media_scanner](https://img.shields.io/badge/Media_Scanner-%5E2.1.0-blue?logo=scanner&logoColor=FF6347)](https://pub.dev/packages/media_scanner)
+[![path](https://img.shields.io/badge/Path-%5E1.9.0-blue?logo=folder&logoColor=87CEEB)](https://pub.dev/packages/path)
+[![path_provider](https://img.shields.io/badge/Path_Provider-%5E2.1.3-blue?logo=folder&logoColor=87CEEB)](https://pub.dev/packages/path_provider)
+[![permission_handler](https://img.shields.io/badge/Permission_Handler-%5E11.3.1-blue?logo=lock&logoColor=FF6347)](https://pub.dev/packages/permission_handler)
+[![photo_view](https://img.shields.io/badge/Photo_View-%5E0.15.0-blue?logo=photo&logoColor=1E90FF)](https://pub.dev/packages/photo_view)
+[![readmore](https://img.shields.io/badge/Readmore-%5E3.0.0-blue?logo=book&logoColor=FFD700)](https://pub.dev/packages/readmore)
+[![reorderable_grid](https://img.shields.io/badge/Reorderable_Grid-%5E1.0.10-blue?logo=grid&logoColor=00CED1)](https://pub.dev/packages/reorderable_grid)
+[![shimmer](https://img.shields.io/badge/Shimmer-%5E3.0.0-blue?logo=sparkles&logoColor=FFD700)](https://pub.dev/packages/shimmer)
+[![smooth_page_indicator](https://img.shields.io/badge/Smooth_Page_Indicator-%5E1.1.0-blue?logo=indicator&logoColor=FF4500)](https://pub.dev/packages/smooth_page_indicator)
 [![socket_io_client](https://img.shields.io/badge/Socket_IO_Client-%5E3.0.0--beta.2-blue?logo=socketdotio&logoColor=010101)](https://pub.dev/packages/socket_io_client)
-[![url_launcher](https://img.shields.io/badge/URL_Launcher-%5E6.2.6-blue?logo=link)](https://pub.dev/packages/url_launcher)
-[![uuid](https://img.shields.io/badge/UUID-%5E4.4.2-blue?logo=uuid)](https://pub.dev/packages/uuid)
-[![visibility_detector](https://img.shields.io/badge/Visibility_Detector-%5E0.4.0%2B2-blue?logo=eye)](https://pub.dev/packages/visibility_detector)
+[![url_launcher](https://img.shields.io/badge/URL_Launcher-%5E6.2.6-blue?logo=link&logoColor=00BFFF)](https://pub.dev/packages/url_launcher)
+[![uuid](https://img.shields.io/badge/UUID-%5E4.4.2-blue?logo=uuid&logoColor=FFD700)](https://pub.dev/packages/uuid)
+[![visibility_detector](https://img.shields.io/badge/Visibility_Detector-%5E0.4.0%2B2-blue?logo=eye&logoColor=FF6347)](https://pub.dev/packages/visibility_detector)
 
 # **ProFinder** 🌟
 
@@ -220,25 +220,29 @@ Admins possess broader permissions and are responsible for managing various aspe
 
 - **Admin Levels :**
 
-  1. **Wallet Manager 💳**
+    1. **Wallet Manager 💳**
+
     - **Responsibilities:** Oversees all financial
       transactions within the platform. This includes managing wallet operations, handling
       deposits and withdrawals, and ensuring financial transactions are processed securely and
       accurately 🔒.
 
-  2. **Company Manager 🏢**
+    2. **Company Manager 🏢**
+
     - **Responsibilities:** Manages all aspects related to
       company operations. This includes overseeing the creation and management of company
       accounts, ensuring compliance with company guidelines, and handling any issues related to
       company activities 🔍.
 
-  3. **Freelancer Manager 👨‍💼**
+    3. **Freelancer Manager 👨‍💼**
+
     - **Responsibilities:** Focuses on managing freelance
       projects and interactions. Oversees freelancer profiles, project applications, and ensures
       that freelance engagements are conducted smoothly. Also addresses any issues related to
       freelancer performance and project execution 📊.
 
-  4. **Technical Support 🛠️**
+    4. **Technical Support 🛠️**
+
     - **Responsibilities:** Provides support for technical
       issues and user inquiries. Handles troubleshooting, resolves technical problems, and
       ensures that the platform’s technical operations run efficiently and effectively 💬.
@@ -437,29 +441,29 @@ The application offers a robust and user-friendly system for managing freelance 
 smooth and secure interactions among **users**, **explorers**, and **administrators**.
 
 - **Contract Creation and Management:**
-  - ✍️ *Users* can effortlessly create, update, and manage their contracts within the platform.
-  - 📄 *Multiple PDF Files*: The system supports the upload of multiple PDF files, making it easy
-    to include all necessary documentation.
+    - ✍️ *Users* can effortlessly create, update, and manage their contracts within the platform.
+    - 📄 *Multiple PDF Files*: The system supports the upload of multiple PDF files, making it easy
+      to include all necessary documentation.
 
 - **Contract Status:**
-  - ✅ *Mark as Successful*: Once a project is completed to satisfaction, users can mark contracts
-    as successful.
-  - 🚨 *File Complaints*: If issues arise, users can file complaints, which will be reviewed by
-    administrators.
+    - ✅ *Mark as Successful*: Once a project is completed to satisfaction, users can mark contracts
+      as successful.
+    - 🚨 *File Complaints*: If issues arise, users can file complaints, which will be reviewed by
+      administrators.
 
 - **Administrative Oversight:**
-  - 👮 *Administrators* have comprehensive oversight capabilities, allowing them to:
-    - 🔍 *Resolve Disputes*: Admins can intervene to resolve disputes between parties.
-    - ⬇️ *Download Files*: Access and download any attached files for review.
-    - 📊 *Monitor Activities*: Keep an eye on contract activities across the platform to ensure
-      compliance and transparency.
+    - 👮 *Administrators* have comprehensive oversight capabilities, allowing them to:
+        - 🔍 *Resolve Disputes*: Admins can intervene to resolve disputes between parties.
+        - ⬇️ *Download Files*: Access and download any attached files for review.
+        - 📊 *Monitor Activities*: Keep an eye on contract activities across the platform to ensure
+          compliance and transparency.
 
 - **Explore Module:**
-  - 🌍 The explore module provides additional functionalities for users to interact with ongoing
-    contracts:
-    - ✔️ *Accept or Refuse*: Users can choose to accept or refuse contracts.
-    - 🚚 *Shipping*: Users can manage the shipping of contracts as needed.
-    - 📂 *Access and Download*: All contract files can be accessed and downloaded easily.
+    - 🌍 The explore module provides additional functionalities for users to interact with ongoing
+      contracts:
+        - ✔️ *Accept or Refuse*: Users can choose to accept or refuse contracts.
+        - 🚚 *Shipping*: Users can manage the shipping of contracts as needed.
+        - 📂 *Access and Download*: All contract files can be accessed and downloaded easily.
 
 ---
 
@@ -494,9 +498,9 @@ users within the application 💬. Key features include:*
   they are online 🟢 or offline 🔴.
 
 - **Message Status:** 📩 Provides clear indicators for message status:
-  - **Sent:** 📤 Message has been sent from the sender.
-  - **Delivered:** 📥 Message has been received by the recipient.
-  - **Read:** 👁️ Message has been read by the recipient.
+    - **Sent:** 📤 Message has been sent from the sender.
+    - **Delivered:** 📥 Message has been received by the recipient.
+    - **Read:** 👁️ Message has been read by the recipient.
 
 - **Redis Integration:** 🗃️ Employs Redis to enhance storage and data retrieval operations, ensuring
   quick and efficient message handling with minimal latency 🚀.
