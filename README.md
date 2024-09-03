@@ -594,19 +594,10 @@ reliable platform experience.
 ## **⚒️ Languages & Frameworks & Tools**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,react,git,github,gitlab,gmail,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,vscode,androidstudio,idea,postman,stackoverflow,svg" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail,figma,ai,ps,vscode,androidstudio,postman,stackoverflow,svg" />
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,gradle,firebase,html,css,react,js,nodejs,npm,express,mongodb" />
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail" />
-<br/>
-<img src="https://skillicons.dev/icons?i=dart,flutter,gradle,firebase" />
-<br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,npm,express,mongodb" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,stackoverflow,svg" />
 </div>
 
 ## 👥 Team Members
