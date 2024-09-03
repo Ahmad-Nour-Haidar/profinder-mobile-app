@@ -594,14 +594,26 @@ reliable platform experience.
 
 ## **⚒️ Languages & Frameworks & Tools**
 
-| **Purpose**                          | **Tool/Technology**                   |
-|--------------------------------------|---------------------------------------|
-| **Framework**                        | **Express** 🚀                        |
-| **Database Management**              | **MongoDB** 🗄️                       |
-| **Caching System**                   | **Redis** 🗃️                         |
-| **Token-Based Authentication**       | **JWT (JSON Web Token)** 🔐           |
-| **Real-Time Communication**          | **Socket.IO** ⚡                       |
-| **Push Notifications and Messaging** | **FCM (Firebase Cloud Messaging)** 📬 |
+<div align="center">
+    <h2>🔧 Development Tools & Technologies</h2>
+    <p>Version Control, Design, Web Technologies, and Cloud Services</p>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,js,html,css,nodejs,figma,react,firebase,gmail,ai,ps,mongodb,npm" />
+    <br/><br/>
+    <p>Editors & IDEs</p>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,androidstudio,clion,cmake,idea,postman,stackoverflow,svg" />
+    <br/><br/>
+    <p>Programming Languages & Frameworks</p>
+    <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,mysql" />
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,js,html,css,nodejs,figma,react,firebase,gmail,ai,ps,js,mongodb,npm,nodejs" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,androidstudio,clion,cmake,idea,postman,stackoverflow,svg,vscode" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,mysql" />
+    <br>
+</div>
 
 ## 👥 Team Members
 
