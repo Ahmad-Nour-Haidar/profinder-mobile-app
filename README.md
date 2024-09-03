@@ -596,10 +596,15 @@ reliable platform experience.
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,stackoverflow,svg" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=dart,flutter,gradle,firebase" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=js,nodejs,npm,express,mongodb" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=html,css,react" />
 </div>
 
