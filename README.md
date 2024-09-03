@@ -109,102 +109,101 @@ enjoyable.
 - 🔑 **Multi-level Login System**   
   *Manage users at various levels including Admin and Super Admin.*
 
-- **User Interests and Recommendations** 🎯  
+- 🎯 **User Interests and Recommendations**   
   *Manage user interests and receive tailored recommendations.*
 
-- **Comprehensive Profile Management** 📝  
+- 📝 **Comprehensive Profile Management**   
   *Create and manage a detailed user profile with all necessary information.*
 
-- **Follow System** 👥  
+- 👥 **Follow System**   
   *Users can follow other users and be followed, enhancing interaction.*
 
-- **Company Creation and Management** 🏢  
+- 🏢 **Company Creation and Management**   
   *Create, edit, and manage companies and their job postings.*
 
-- **Job Creation and Applications** 💼  
+- 💼 **Job Creation and Applications**   
   *Companies can create job opportunities, and users can apply for these jobs.*
 
-- **Post Creation and Interaction** 🗨️  
+- 🗨️ **Post Creation and Interaction**   
   *Create posts, comment, like, and save posts in the platform.*
 
-
-- **Wallet Management** 💵  
+- 💵 **Wallet Management**   
   *Manage currency transfers and keep track of transactions.*
 
-- **Freelance Projects** 🛠️  
+- 🛠️ **Freelance Projects**   
   *Create and apply for freelance projects.*
 
-- **Contract Creation** 📝✍️  
+- 📝 **Contract Creation**  
   *Create contracts for freelance projects to ensure mutual agreement and clear terms.*
 
-- **Advanced Notification System** 🔔  
+- 🔔 **Advanced Notification System**   
   *Receive and manage notifications for various activities and updates.*
 
-- **User-to-User Chat** 💬  
+- 💬 **User-to-User Chat**   
   *Communicate directly with other users to finalize agreements and discuss opportunities.*
 
-- **Reporting System** 🚨  
+- 🚨 **Reporting System**   
   *Report posts, companies, users, job opportunities, or freelance projects.*
 
-- **Support Center Communication** 📞  
+- 📞 **Support Center Communication**   
   *Contact the support center for assistance with any issues.*
 
-- **Protection 🛡️**
+- 🛡️ **Protection**
   *Several levels of protection have been applied to ensure a secure user experience, safeguarding
   both data and financial transactions.*
 
 ## ✨ Noteworthy Features
 
-- **Advanced Filtering Operations:** 🔍  
+- 🔍 **Advanced Filtering Operations:**   
   *Empower users with robust filtering capabilities, allowing them to sort any field within a table
   in ascending or descending order, perform searches within specific fields, and retrieve data
   across defined time periods. This feature offers a wide range of filtering options to enhance data
   management and accessibility.*
 
-- **Expert Notification System:** 🔔  
+- 🔔 **Expert Notification System:**   
   *A sophisticated notification system that intelligently responds to user activity. Notifications
   are automatically paused when the user becomes inactive within the application, maintaining a
   streamlined structure and optimizing resource usage for efficient performance.*
 
-- **Real-Time Conversation:** 💬  
+- 💬 **Real-Time Conversation:**   
   *Enhance communication by indicating the user’s status—whether online or offline. This feature
   includes comprehensive message status indicators, such as sent, delivered, and read. The
   conversation system is designed to scale, providing reliable and fluid communication across the
   platform.*
 
-- **Profile & Contract Printing:** 🖨️  
+- 🖨️ **Profile & Contract Printing:**   
   *Users can print their profile as a CV for job applications both within and outside the platform.
   Additionally, the ability to print contracts between customers and employers is provided, ensuring
   that both parties’ rights are clearly documented and protected.*
 
-- **Secure Money Transfer:** 💰  
+- 💰 **Secure Money Transfer:**   
   *The application features a secure wallet that safeguards user transactions. When a freelance job
   request is made, the payment is initially held in the application’s wallet. Upon task completion
   and subsequent admin approval, the funds are securely transferred to the intended recipient,
   ensuring a trustworthy transaction process.*
 
-- **Google Login Integration:** 🔐  
+- 🔐 **Google Login Integration:**   
   *Enhance security and convenience with seamless login through Google, offering users an easy and
   reliable authentication method.*
 
-- **Freelancer Evaluation:** ⭐  
+- ⭐ **Freelancer Evaluation:**   
   *Users have the ability to evaluate freelancers based on their work and project execution. This
   feature ensures transparency and helps future clients make informed decisions when choosing a
   freelancer.*
 
-- **Hashtag Integration:** #️⃣  
+- #️⃣ **Hashtag Integration:**
   *Hashtags have been implemented to improve content discoverability. Users can easily search for
   and find posts by using relevant hashtags, making navigation more efficient.*
 
-- **Suggested Posts Based on User Interests:** 🎯  
+- 🎯 **Suggested Posts Based on User Interests:**   
   *The platform intelligently suggests posts to users based on their interests, providing a more
   personalized and engaging experience by showcasing content that aligns with their preferences.*
 
-- **Image Compression:** 📸  
+- 📸 **Image Compression:**   
   *The application includes a feature to compress images while maintaining high quality. This
   ensures that images are optimized for performance without significant loss of visual fidelity.*
 
-- **Translation Feature:** 🌐  
+- 🌐 **Translation Feature:**   
   *Messages returned from responses and notifications are translated, allowing users to view content
   and updates in their preferred language.*
 
@@ -219,7 +218,7 @@ enjoyable.
 Our application features a sophisticated **Multi-Level Login System** that categorizes users into
 various roles, each with distinct responsibilities and permissions:
 
-### **Regular User 👤**
+### 👤 **Regular User**
 
 Regular users enjoy a variety of functionalities designed to enhance their experience within the
 app. These include:
@@ -240,7 +239,7 @@ app. These include:
   rich  
   and interactive experience within the application.
 
-### **Admin 🛠️**
+### 🛠️ **Admin**
 
 Admins possess broader permissions and are responsible for managing various aspects of the platform:
 
@@ -250,34 +249,32 @@ Admins possess broader permissions and are responsible for managing various aspe
 
 - **Admin Levels :**
 
-    1. **Wallet Manager 💳**
+    1. 💳 **Wallet Manager**
+       - **Responsibilities:** Oversees all financial transactions within the platform. This includes managing wallet operations, handling
+  deposits and withdrawals, and ensuring financial transactions are processed securely and
+  accurately 🔒.
 
-    - **Responsibilities:** Oversees all financial
-      transactions within the platform. This includes managing wallet operations, handling
-      deposits and withdrawals, and ensuring financial transactions are processed securely and
-      accurately 🔒.
+  2. **Company Manager 🏢**
 
-    2. **Company Manager 🏢**
+  - **Responsibilities:** Manages all aspects related to
+    company operations. This includes overseeing the creation and management of company
+    accounts, ensuring compliance with company guidelines, and handling any issues related to
+    company activities 🔍.
 
-    - **Responsibilities:** Manages all aspects related to
-      company operations. This includes overseeing the creation and management of company
-      accounts, ensuring compliance with company guidelines, and handling any issues related to
-      company activities 🔍.
+  3. **Freelancer Manager 👨‍💼**
 
-    3. **Freelancer Manager 👨‍💼**
+  - **Responsibilities:** Focuses on managing freelance
+    projects and interactions. Oversees freelancer profiles, project applications, and ensures
+    that freelance engagements are conducted smoothly. Also addresses any issues related to
+    freelancer performance and project execution 📊.
 
-    - **Responsibilities:** Focuses on managing freelance
-      projects and interactions. Oversees freelancer profiles, project applications, and ensures
-      that freelance engagements are conducted smoothly. Also addresses any issues related to
-      freelancer performance and project execution 📊.
+  4. **Technical Support 🛠️**
 
-    4. **Technical Support 🛠️**
-
-    - **Responsibilities:** Provides support for technical
-      issues and user inquiries. Handles troubleshooting, resolves technical problems, and
-      ensures that the platform’s technical operations run efficiently and effectively 💬.
-      Additionally, responds to messages from users experiencing problems, offering assistance
-      and guidance through chat interactions.
+  - **Responsibilities:** Provides support for technical
+    issues and user inquiries. Handles troubleshooting, resolves technical problems, and
+    ensures that the platform’s technical operations run efficiently and effectively 💬.
+    Additionally, responds to messages from users experiencing problems, offering assistance
+    and guidance through chat interactions.
 
 ### **Super Admin 👑**
 
