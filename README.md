@@ -1,6 +1,13 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true  alt=""/>
+</div>
+
+
 <div align=center>
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
+
+## 📦 Flutter Packages
 
 [![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?color=FF6347)](https://pub.dev/packages/animated_text_kit)
 [![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue?color=FFD700)](https://pub.dev/packages/animate_do)
@@ -66,6 +73,17 @@
 
 # **ProFinder** 🌟
 
+## 📜 Table of Contents
+
+- [Intro](#intro-)
+- [🚀 Main Sections](#main-sections-)
+- [⚒️ Languages & Frameworks & Tools](#-languages--frameworks--tools)
+- [📦 Flutter Packages](#-flutter-packages)
+- [👥 Team Members](#-team-members)
+- [📄 License](#-license)
+
+## Intro
+
 **ProFinder** is a platform that connects professionals with clients to create valuable work
 opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to
 collaborate with professionals, ProFinder offers a robust system that ensures the rights of both
@@ -74,7 +92,7 @@ for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to
 opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](#screenshots).
 🌟 Start using ProFinder today to unlock new possibilities! ✨
 
-## Main Sections 🚀
+## 🚀 Main Sections
 
 - **Multi-level Login System** 🔑  
   *Manage users at various levels including Admin and Super Admin.*
@@ -123,7 +141,7 @@ opportunities. [It also features a beautiful and eye-catching design that makes 
   *Several levels of protection have been applied to ensure a secure user experience, safeguarding
   both data and financial transactions.*
 
-## Noteworthy Features 🌟
+## 🌟 Noteworthy Features
 
 - **Advanced Filtering Operations:** 🔍  
   *Empower users with robust filtering capabilities, allowing them to sort any field within a table
@@ -562,7 +580,7 @@ data and financial transactions. These protections include:
 These robust security measures are designed to protect users’ data and money, providing a safe and
 reliable platform experience.
 
-## **Tools & Technologies** 🔧🌐
+## **⚒️ Languages & Frameworks & Tools**
 
 | **Purpose**                          | **Tool/Technology**                   |
 |--------------------------------------|---------------------------------------|
@@ -572,6 +590,17 @@ reliable platform experience.
 | **Token-Based Authentication**       | **JWT (JSON Web Token)** 🔐           |
 | **Real-Time Communication**          | **Socket.IO** ⚡                       |
 | **Push Notifications and Messaging** | **FCM (Firebase Cloud Messaging)** 📬 |
+
+## 👥 Team Members
+
+| S.No. | **Name**          | GitHub                                                     | Technology     |
+|-------|-------------------|------------------------------------------------------------|----------------|
+| 1.    | Omar Bkdash       | [@Omar-Bkdash-7](https://github.com/Omar-Bkdash-7)         | Flutter Mobile |
+| 2.    | Ahmad Nour Haidar | [@Ahmad-Nour-Haidar](https://github.com/Ahmad-Nour-Haidar) | Flutter Mobile |
+| 3.    | Osama Saddik      | [@osamasaddik](https://github.com/osamasaddik)             | ReactJs Web    |
+| 4.    | Ayman Al-Khatib   | [@Ayman-Al-Khatib](https://github.com/Ayman-Al-Khatib)     | NodeJs Backend |
+| 5.    | Ahmad Ajajeh      | [@Ahmad-Ajajeh](https://github.com/Ahmad-Ajajeh)           | NodeJs Backend |
+| 6.    | Alaa Haidar       | [@_alaa.haidar](https://www.instagram.com/_alaa.haidar)    | UI & UX Figma  |
 
 ## **Developers**
 
@@ -583,6 +612,10 @@ reliable platform experience.
 | **[Omar Bkdash](https://github.com/Omar-Bkdash-7)**           | Mobile Developer   | Flutter        | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             | example.email@gmail.com |
 | **[Osama Saddik](https://github.com/osamasaddik)**            | Frontend Developer | React.js       | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com   |
 | **Alaa Haidar**                                               | UI & UX Designer   | Figma          | [@Alaa-Haidar](https://www.instagram.com/_alaa.haidar)               | N/A                     |
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 # Screenshots
 
