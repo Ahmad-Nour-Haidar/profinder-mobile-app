@@ -106,7 +106,7 @@ enjoyable.
 
 ## 📚 Main Sections
 
-- **Multi-level Login System** 🔑  
+- 🔑 **Multi-level Login System**   
   *Manage users at various levels including Admin and Super Admin.*
 
 - **User Interests and Recommendations** 🎯  
