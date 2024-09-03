@@ -100,7 +100,8 @@ opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire exper
 collaborate with professionals, ProFinder offers a robust system that ensures the rights of both
 parties. 💼🔍 The app provides a powerful mechanism for secure transactions 🔒, a comprehensive search
 for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to increase job
-opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](#screenshots).
+opportunities. It also features a beautiful and eye-catching design that makes navigation easy and
+enjoyable.
 🌟 Start using ProFinder today to unlock new possibilities! ✨
 
 ## 📚 Main Sections
@@ -623,6 +624,66 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 The mobile application offers a user-friendly interface and intuitive design to enhance the user
 experience. Below are the mockups showcasing various features and screens of the application.
+
+<div style="text-align: center;">
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/light/1.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/light/2.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/light/3.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/light/4.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/light/5.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/light/6.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/light/7.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/light/8.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/light/9.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/light/10.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/light/11.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/light/12.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/light/13.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/both/1.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/dark/1.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/dark/2.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/dark/3.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/dark/4.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/dark/5.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/dark/6.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/dark/7.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/dark/8.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/dark/9.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/dark/10.jpeg" style="width: 32%;" />
+  </div>
+
+  <div style="margin: 0; padding: 0;">
+    <img src="screenshot/mobile/dark/11.jpeg" style="width: 32%;" />
+    <img src="screenshot/mobile/dark/12.jpeg" style="width: 32%; " />
+    <img src="screenshot/mobile/dark/13.jpeg" style="width: 32%;" />
+  </div>
+
+</div>
+
+---
 
 <div style="text-align: center;">
   <div style="margin: 0; padding: 0;">
