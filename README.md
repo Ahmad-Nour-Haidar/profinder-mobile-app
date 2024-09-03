@@ -7,7 +7,18 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
-# **ProFinder** 🌟
+## 🛒 Product Links
+
+- **📱 Android App:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.example.app)
+- **🖥️ Web App:** [Access the Web App](https://webapp.yourwebsite.com)
+
+### 🏷️ Badges
+
+[![Android](https://img.shields.io/badge/Google_Play-Download-brightgreen?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.example.app)
+[![Web App](https://img.shields.io/badge/Web_App-Access-blueviolet?style=for-the-badge&logo=web)](https://webapp.yourwebsite.com)
+
+
+# **ProFinder** 🔥
 
 ## 📜 Table of Contents
 
