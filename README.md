@@ -594,6 +594,8 @@ reliable platform experience.
 ## **⚒️ Languages & Frameworks & Tools**
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,html,css,react,git,github,gitlab,gmail,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,vscode,androidstudio,idea,postman,stackoverflow,svg" />
+<br/>
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
