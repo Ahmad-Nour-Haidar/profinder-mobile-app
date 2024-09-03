@@ -595,24 +595,12 @@ reliable platform experience.
 ## **⚒️ Languages & Frameworks & Tools**
 
 <div align="center">
-    <h2>🔧 Development Tools & Technologies</h2>
-    <p>Version Control, Design, Web Technologies, and Cloud Services</p>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,js,html,css,nodejs,figma,react,firebase,gmail,ai,ps,mongodb,npm" />
-    <br/><br/>
-    <p>Editors & IDEs</p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,androidstudio,clion,cmake,idea,postman,stackoverflow,svg" />
-    <br/><br/>
-    <p>Programming Languages & Frameworks</p>
-    <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,mysql" />
-</div>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,figma,js,html,css,nodejs,figma,react,firebase,gmail,ai,ps,js,mongodb,npm,nodejs" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,androidstudio,clion,cmake,idea,postman,stackoverflow,svg,vscode" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,mysql" />
-    <br>
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,stackoverflow,svg" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,gradle,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,npm,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,react" />
 </div>
 
 ## 👥 Team Members
