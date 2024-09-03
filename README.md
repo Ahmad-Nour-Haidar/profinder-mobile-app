@@ -2,7 +2,7 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
-[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?logo=animation&logoColor=FF6347)](https://pub.dev/packages/animated_text_kit)
+[![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?logo=animation&color=FF6347)](https://pub.dev/packages/animated_text_kit)
 [![animate_do](https://img.shields.io/badge/Animate_Do-%5E3.3.4-blue?logo=do&logoColor=FFD700)](https://pub.dev/packages/animate_do)
 [![app_links](https://img.shields.io/badge/App_Links-%5E6.2.0-blue?logo=link&logoColor=87CEEB)](https://pub.dev/packages/app_links)
 [![audioplayers](https://img.shields.io/badge/Audioplayers-%5E6.0.0-blue?logo=music&logoColor=1DB954)](https://pub.dev/packages/audioplayers)
