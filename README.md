@@ -249,34 +249,36 @@ Admins possess broader permissions and are responsible for managing various aspe
 
 - **Admin Levels :**
 
-    1. 💳 **Wallet Manager**
-       - **Responsibilities:** Oversees all financial transactions within the platform. This includes managing wallet operations, handling
-  deposits and withdrawals, and ensuring financial transactions are processed securely and
-  accurately 🔒.
+    1. **💳 Wallet Manager**
 
-  2. **Company Manager 🏢**
+    - **Responsibilities:** Oversees all financial
+      transactions within the platform. This includes managing wallet operations, handling
+      deposits and withdrawals, and ensuring financial transactions are processed securely and
+      accurately 🔒.
 
-  - **Responsibilities:** Manages all aspects related to
-    company operations. This includes overseeing the creation and management of company
-    accounts, ensuring compliance with company guidelines, and handling any issues related to
-    company activities 🔍.
+    2. **🏢 Company Manager**
 
-  3. **Freelancer Manager 👨‍💼**
+    - **Responsibilities:** Manages all aspects related to
+      company operations. This includes overseeing the creation and management of company
+      accounts, ensuring compliance with company guidelines, and handling any issues related to
+      company activities 🔍.
 
-  - **Responsibilities:** Focuses on managing freelance
-    projects and interactions. Oversees freelancer profiles, project applications, and ensures
-    that freelance engagements are conducted smoothly. Also addresses any issues related to
-    freelancer performance and project execution 📊.
+    3. **👨‍💼 Freelancer Manager**
 
-  4. **Technical Support 🛠️**
+    - **Responsibilities:** Focuses on managing freelance
+      projects and interactions. Oversees freelancer profiles, project applications, and ensures
+      that freelance engagements are conducted smoothly. Also addresses any issues related to
+      freelancer performance and project execution 📊.
 
-  - **Responsibilities:** Provides support for technical
-    issues and user inquiries. Handles troubleshooting, resolves technical problems, and
-    ensures that the platform’s technical operations run efficiently and effectively 💬.
-    Additionally, responds to messages from users experiencing problems, offering assistance
-    and guidance through chat interactions.
+    4. **🛠️ Technical Support**
 
-### **Super Admin 👑**
+    - **Responsibilities:** Provides support for technical
+      issues and user inquiries. Handles troubleshooting, resolves technical problems, and
+      ensures that the platform’s technical operations run efficiently and effectively 💬.
+      Additionally, responds to messages from users experiencing problems, offering assistance
+      and guidance through chat interactions.
+
+### **👑 Super Admin**
 
 Super Admins hold the highest level of authority within the application, managing the admins and
 overall system functionalities:
@@ -304,34 +306,34 @@ preferences, enhancing the relevance of job matches and content suggestions.
 Our platform offers a robust profile management system 🌟, allowing users to present their
 professional and personal information in a detailed and organized manner.
 
-- **Address:** 🏠  
+- **🏠 Address:**   
   *Provides detailed information about the user's geographical location.*
 
-- **Certifications:** 🏅  
+- **🏅 Certifications:**   
   *Showcase various certificates that validate skills and achievements.*
 
-- **Education:** 🎓  
+- **🎓 Education:**   
   *Lists the stages of education completed, including details of institutions and dates.*
 
-- **Projects:** 📁  
+- **📁 Projects:**   
   *Highlights personal projects undertaken, demonstrating experience and expertise.*
 
-- **Skills:** 🛠️  
+- **🛠️ Skills:**   
   *Details the skills possessed, categorized by type or relevance.*
 
-- **Languages:** 🌐  
+- **🌐 Languages:**   
   *Displays the languages the user is proficient in.*
 
-- **Social Media Links:** 🔗  
+- **🔗 Social Media Links:**   
   *Provides links to social media profiles for networking and professional connections.*
 
-- **Work Experience:** 💼  
+- **💼 Work Experience:**   
   *Describes experience gained from working in various companies or professional environments.*
 
-- **CV Upload:** 📎  
+- **📎 CV Upload:**   
   *Allows users to upload their CV directly to their profile.*
 
-- **Personal Information:** 🆔  
+- **🆔 Personal Information:**   
   *Includes the user's full name, date of birth, bio, phone, and gender.*
 
 ---
@@ -609,7 +611,7 @@ reliable platform experience.
 
 | S.No. | Name                                                      | Role               | Technology | LinkedIn                                                             | Email                     |
 |-------|-----------------------------------------------------------|--------------------|------------|----------------------------------------------------------------------|---------------------------|
-| 1.    | [Omar Bkdash](https://github.com/Omar-Bkdash-7)           | Mobile Developer   | Flutter    | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             |                           |
+| 1.    | [Omar Bkdash](https://github.com/Omar-Bkdash-7)           | Mobile Developer   | Flutter    | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             | omarbkdash7@gmail.com     |
 | 2.    | [Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar) | Mobile Developer   | Flutter    | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) | ahmadnourhaidar@gmail.com |
 | 3.    | [Osama Saddik](https://github.com/osamasaddik)            | Frontend Developer | React.js   | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com     |
 | 4.    | [Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)     | Backend Developer  | Express.js | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      | ayman.eng.job@gmail.com   |
