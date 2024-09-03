@@ -7,6 +7,20 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
+# **ProFinder** 🌟
+
+## 📜 Table of Contents
+
+- [📦 Flutter Packages](#-flutter-packages)
+- [🚀 Intro](#-intro)
+- [📚 Main Sections](#-main-sections)
+- [✨ Noteworthy Features](#-noteworthy-features)
+- [🔍 ProFinder Overview](#-profinder-overview)
+- [⚒️ Languages & Frameworks & Tools](#-languages--frameworks--tools)
+- [👥 Team Members](#-team-members)
+- [📄 License](#-license)
+- [🖼️ Project Preview](#-project-preview)
+
 ## 📦 Flutter Packages
 
 [![animated_text_kit](https://img.shields.io/badge/Animated_Text_Kit-%5E4.2.2-blue?color=FF6347)](https://pub.dev/packages/animated_text_kit)
@@ -71,18 +85,7 @@
 [![uuid](https://img.shields.io/badge/UUID-%5E4.4.2-blue?color=FFD700)](https://pub.dev/packages/uuid)
 [![visibility_detector](https://img.shields.io/badge/Visibility_Detector-%5E0.4.0%2B2-blue?color=FF6347)](https://pub.dev/packages/visibility_detector)
 
-# **ProFinder** 🌟
-
-## 📜 Table of Contents
-
-- [Intro](#intro-)
-- [🚀 Main Sections](#main-sections-)
-- [⚒️ Languages & Frameworks & Tools](#-languages--frameworks--tools)
-- [📦 Flutter Packages](#-flutter-packages)
-- [👥 Team Members](#-team-members)
-- [📄 License](#-license)
-
-## Intro
+## 🚀 Intro
 
 **ProFinder** is a platform that connects professionals with clients to create valuable work
 opportunities. 🤝 Whether you're seeking freelance gigs, looking to hire experts, or aiming to
@@ -92,7 +95,7 @@ for companies 🏢, and a way to enhance your profile by sharing your CV 📄 to
 opportunities. [It also features a beautiful and eye-catching design that makes navigation easy and enjoyable](#screenshots).
 🌟 Start using ProFinder today to unlock new possibilities! ✨
 
-## 🚀 Main Sections
+## 📚 Main Sections
 
 - **Multi-level Login System** 🔑  
   *Manage users at various levels including Admin and Super Admin.*
@@ -141,7 +144,7 @@ opportunities. [It also features a beautiful and eye-catching design that makes 
   *Several levels of protection have been applied to ensure a secure user experience, safeguarding
   both data and financial transactions.*
 
-## 🌟 Noteworthy Features
+## ✨ Noteworthy Features
 
 - **Advanced Filtering Operations:** 🔍  
   *Empower users with robust filtering capabilities, allowing them to sort any field within a table
@@ -200,7 +203,7 @@ opportunities. [It also features a beautiful and eye-catching design that makes 
   *The Statistics section empowers administrators with detailed visibility into the application's
   activities, providing crucial data to track high-demand areas and monitor user interactions.*
 
-# ProFinder Overview
+# 🔍 ProFinder Overview
 
 <img src="https://img.shields.io/badge/Multi--Level_Login_System_🔑-F90716" alt="Multi-Level Login System" height="35"/>
 
@@ -593,31 +596,20 @@ reliable platform experience.
 
 ## 👥 Team Members
 
-| S.No. | **Name**          | GitHub                                                     | Technology     |
-|-------|-------------------|------------------------------------------------------------|----------------|
-| 1.    | Omar Bkdash       | [@Omar-Bkdash-7](https://github.com/Omar-Bkdash-7)         | Flutter Mobile |
-| 2.    | Ahmad Nour Haidar | [@Ahmad-Nour-Haidar](https://github.com/Ahmad-Nour-Haidar) | Flutter Mobile |
-| 3.    | Osama Saddik      | [@osamasaddik](https://github.com/osamasaddik)             | ReactJs Web    |
-| 4.    | Ayman Al-Khatib   | [@Ayman-Al-Khatib](https://github.com/Ayman-Al-Khatib)     | NodeJs Backend |
-| 5.    | Ahmad Ajajeh      | [@Ahmad-Ajajeh](https://github.com/Ahmad-Ajajeh)           | NodeJs Backend |
-| 6.    | Alaa Haidar       | [@_alaa.haidar](https://www.instagram.com/_alaa.haidar)    | UI & UX Figma  |
-
-## **Developers**
-
-| **Name**                                                      | **Role**           | **Technology** | **Social Media**                                                     | **Email**               |
-|---------------------------------------------------------------|--------------------|----------------|----------------------------------------------------------------------|-------------------------|
-| **[Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)**     | Backend Developer  | Express.js     | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      | ayman.eng.job@gmail.com |
-| **[Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)**           | Backend Developer  | Express.js     | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) | ajajeh356@gmail.com     |
-| **[Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar)** | Mobile Developer   | Flutter        | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) | example.email@gmail.com |
-| **[Omar Bkdash](https://github.com/Omar-Bkdash-7)**           | Mobile Developer   | Flutter        | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             | example.email@gmail.com |
-| **[Osama Saddik](https://github.com/osamasaddik)**            | Frontend Developer | React.js       | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  | saddikosama@gmail.com   |
-| **Alaa Haidar**                                               | UI & UX Designer   | Figma          | [@Alaa-Haidar](https://www.instagram.com/_alaa.haidar)               | N/A                     |
+| S.No. | Name                                                      | Role               | Technology | LinkedIn                                                             |
+|-------|-----------------------------------------------------------|--------------------|------------|----------------------------------------------------------------------|
+| 1.    | [Omar Bkdash](https://github.com/Omar-Bkdash-7)           | Mobile Developer   | Flutter    | [@Omar-Bkdash](https://www.linkedin.com/in/omar-bkdashh)             |
+| 2.    | [Ahmed Nour Haidar](https://github.com/Ahmad-Nour-Haidar) | Mobile Developer   | Flutter    | [@Ahmed-Nour-Haider](https://www.linkedin.com/in/ahmad-nour-haidar/) |
+| 3.    | [Osama Saddik](https://github.com/osamasaddik)            | Frontend Developer | React.js   | [@Osama-Saddik](https://www.linkedin.com/in/osama-saddik-8b814b259)  |
+| 4.    | [Ayman Al-khatib](https://github.com/Ayman-Al-Khatib)     | Backend Developer  | Express.js | [@Ayman-Al-Khatib](https://www.linkedin.com/in/ayman-al-khatib)      |
+| 5.    | [Ahmad Ajajeh](https://github.com/Ahmad-Ajajeh)           | Backend Developer  | Express.js | [@Ahmad-Ajajeh](https://www.linkedin.com/in/ahmed-ajajeh-b999b6175/) |
+| 6.    | [Alaa Haidar](https://www.instagram.com/_alaa.haidar)     | UI & UX            | Figma      | [@Alaa-Haidar](https://www.linkedin.com/in/alaa-haidar/)             |
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-# Screenshots
+## 🖼️ Project Preview
 
 <img src="https://img.shields.io/badge/Mobile_Application_📱-1E90FF?" alt="Mobile Application" height="50"/>
 
