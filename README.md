@@ -7,21 +7,11 @@
     <img src="screenshot/logo.svg" alt="Pro Finder" width=75%>
 </div>
 
-## 🛒 Product Links
-
-- **📱 Android App:** [Download on Google Play](https://play.google.com/store/apps/details?id=com.example.app)
-- **🖥️ Web App:** [Access the Web App](https://webapp.yourwebsite.com)
-
-### 🏷️ Badges
-
-[![Android](https://img.shields.io/badge/Google_Play-Download-brightgreen?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.example.app)
-[![Web App](https://img.shields.io/badge/Web_App-Access-blueviolet?style=for-the-badge&logo=web)](https://webapp.yourwebsite.com)
-
-
 # **ProFinder** 🔥
 
 ## 📜 Table of Contents
 
+- [🛒 Product Links](#-product-links)
 - [📦 Flutter Packages](#-flutter-packages)
 - [🚀 Intro](#-intro)
 - [📚 Main Sections](#-main-sections)
@@ -31,6 +21,13 @@
 - [👥 Team Members](#-team-members)
 - [📄 License](#-license)
 - [🖼️ Project Preview](#-project-preview)
+
+## 🛒 Product Links
+
+[//]: # (- **📱 Android App:** [Download on Google Play]&#40;https://play.google.com/store/apps/details?id=com.example.app&#41;)
+
+- **📱 Android App:** [Download on Telegram](https://t.me/profinder_mobile_app/3)
+- **🖥️ Web App:** [Access the Web App](https://profinder-dashboard.web.app/)
 
 ## 📦 Flutter Packages
 
